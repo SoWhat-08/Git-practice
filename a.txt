@@ -1,0 +1,4 @@
+welcome to DevOps
+
+echo 24
+echo "DOne"
